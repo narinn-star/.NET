@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01\\Week01.csproj": {}
+    "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01_0\\Week01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01\\Week01.csproj": {
+    "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01_0\\Week01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01\\Week01.csproj",
+        "projectUniqueName": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01_0\\Week01.csproj",
         "projectName": "Week01",
-        "projectPath": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01\\Week01.csproj",
+        "projectPath": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01_0\\Week01.csproj",
         "packagesPath": "C:\\Users\\skfls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01\\obj\\",
+        "outputPath": "C:\\Users\\skfls\\OneDrive\\바탕 화면\\.NET\\Week01_0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skfls\\AppData\\Roaming\\NuGet\\NuGet.Config",
