@@ -1,0 +1,46 @@
+C:\Users\Student\Desktop\mixControl\bin\Debug\mixControl.exe
+C:\Users\Student\Desktop\mixControl\bin\Debug\mixControl.pdb
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.Form1.resources
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.Properties.Resources.resources
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.exe
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.pdb
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\mixControl\obj\x86\Debug\mixControl.Form2.resources
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.exe
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.pdb
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\bin\Debug\mixControl.exe
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\bin\Debug\mixControl.pdb
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csprojResolveAssemblyReference.cache
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form1.resources
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form2.resources
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Properties.Resources.resources
+C:\Users\05x\Desktop\C#\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.GenerateResource.Cache
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.pdb
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\bin\Debug\mixControl.exe
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\bin\Debug\mixControl.pdb
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csprojResolveAssemblyReference.cache
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form1.resources
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form2.resources
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Properties.Resources.resources
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\[ ch별 실습과제 Project\ch 22 대화상자 - 아래 26 에서도 원지환꺼 참고\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.exe
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.pdb
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\bin\Debug\mixControl.exe
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\bin\Debug\mixControl.pdb
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form1.resources
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form2.resources
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Properties.Resources.resources
+C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.GenerateResource.Cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\bin\Debug\mixControl.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\bin\Debug\mixControl.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.Form2.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\2주차\Week02_4\obj\x86\Debug\mixControl.pdb
