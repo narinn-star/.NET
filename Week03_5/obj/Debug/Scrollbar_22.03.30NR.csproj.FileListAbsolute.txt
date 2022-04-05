@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\bin\Debug\Scrollbar_22.03.30NR.exe.config
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\bin\Debug\Scrollbar_22.03.30NR.exe
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\bin\Debug\Scrollbar_22.03.30NR.pdb
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22.03.30NR.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22._03._30NR.Form1.resources
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22._03._30NR.Form2.resources
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22._03._30NR.Properties.Resources.resources
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22.03.30NR.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22.03.30NR.exe
+C:\Users\Student\Desktop\Scrollbar_22.03.30NR\obj\Debug\Scrollbar_22.03.30NR.pdb
