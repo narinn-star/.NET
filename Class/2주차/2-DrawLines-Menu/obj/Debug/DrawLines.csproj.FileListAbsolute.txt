@@ -1,0 +1,10 @@
+F:\C#\실습과제들\4 - DrawLines 모음\2-DrawLines-Menu\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\2-DrawLines-Menu\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\2-DrawLines-Menu\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\2-DrawLines-Menu\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\2-DrawLines-Menu\obj\Debug\DrawLines.pdb

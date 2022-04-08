@@ -1,0 +1,19 @@
+C:\Users\Student\Desktop\0316\bin\Debug\0316.exe.config
+C:\Users\Student\Desktop\0316\bin\Debug\0316.exe
+C:\Users\Student\Desktop\0316\bin\Debug\0316.pdb
+C:\Users\Student\Desktop\0316\obj\Debug\0316.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0316\obj\Debug\_0316.Form1.resources
+C:\Users\Student\Desktop\0316\obj\Debug\_0316.Properties.Resources.resources
+C:\Users\Student\Desktop\0316\obj\Debug\0316.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\0316\obj\Debug\0316.exe
+C:\Users\Student\Desktop\0316\obj\Debug\0316.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\bin\Debug\0316.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\bin\Debug\0316.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\bin\Debug\0316.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\0316.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\_0316.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\_0316.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\0316.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\0316.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\0316.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_0\obj\Debug\0316.pdb

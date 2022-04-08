@@ -1,0 +1,20 @@
+D:\Skk Education\Study-Lang\MS.NET\[ 닷넷프로그래밍정복-김상형+ 교육자료 from 기타교재\2021 1학기 실습과제\1 - 첫시간 따라하기, 점찍기\첫시간 API 점찍기 C#으로\bin\Debug\첫수업.exe.config
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\bin\Debug\첫수업.exe.config
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\bin\Debug\첫수업.exe
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\bin\Debug\첫수업.pdb
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.Form1.resources
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.Properties.Resources.resources
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.exe
+C:\Users\Student\Desktop\첫시간 API 점찍기 C#으로\obj\Debug\첫수업.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\bin\Debug\첫수업.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\bin\Debug\첫수업.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\bin\Debug\첫수업.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_1 API를 C#으로 점찍기\obj\Debug\첫수업.pdb

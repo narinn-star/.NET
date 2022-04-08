@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\bin\Debug\Curve.exe
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\bin\Debug\Curve.pdb
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.Form1.resources
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.Properties.Resources.resources
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.exe
+C:\Users\Student\Desktop\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\bin\Debug\Curve.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\bin\Debug\Curve.pdb
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.exe
+C:\Users\skfls\OneDrive\바탕 화면\22.03.23\0316닷넷\0316_2 Curve 예제(17장)\Curve\obj\Debug\Curve.pdb
