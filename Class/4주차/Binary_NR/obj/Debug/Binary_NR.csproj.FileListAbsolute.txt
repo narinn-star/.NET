@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Binary_NR\bin\Debug\Binary_NR.exe.config
+C:\Users\Student\Desktop\Binary_NR\bin\Debug\Binary_NR.exe
+C:\Users\Student\Desktop\Binary_NR\bin\Debug\Binary_NR.pdb
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.Form1.resources
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.Properties.Resources.resources
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.exe
+C:\Users\Student\Desktop\Binary_NR\obj\Debug\Binary_NR.pdb

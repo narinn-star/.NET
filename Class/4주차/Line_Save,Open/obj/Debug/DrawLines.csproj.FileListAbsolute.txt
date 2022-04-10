@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\obj\Debug\DrawLines.pdb

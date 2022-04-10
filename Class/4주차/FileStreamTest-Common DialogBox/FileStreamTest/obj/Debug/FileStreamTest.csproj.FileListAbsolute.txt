@@ -1,0 +1,9 @@
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.Cache
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.pdb
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest-Common DialogBox\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\E334\Desktop\C#\26장=파일 입출력\FileStreamTest-Common DialogBox\FileStreamTest\obj\Debug\FileStreamTest.pdb

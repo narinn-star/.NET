@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\FileStream_Dialog_NR\bin\Debug\FileStream_Dialog_NR.exe.config
+C:\Users\Student\Desktop\FileStream_Dialog_NR\bin\Debug\FileStream_Dialog_NR.exe
+C:\Users\Student\Desktop\FileStream_Dialog_NR\bin\Debug\FileStream_Dialog_NR.pdb
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.Form1.resources
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.Properties.Resources.resources
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.exe
+C:\Users\Student\Desktop\FileStream_Dialog_NR\obj\Debug\FileStream_Dialog_NR.pdb

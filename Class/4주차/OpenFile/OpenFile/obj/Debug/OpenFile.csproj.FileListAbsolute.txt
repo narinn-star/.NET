@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\Student\Desktop\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.Properties.Resources.resources
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\Student\Desktop\OpenFile\OpenFile\obj\Debug\OpenFile.pdb
