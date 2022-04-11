@@ -1,0 +1,36 @@
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.deps.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.runtimeconfig.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.runtimeconfig.dev.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\ref\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\bin\Debug\net5.0-windows\Week01.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.AssemblyInfoInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.AssemblyInfo.cs
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\ref\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\Week01\obj\Debug\net5.0-windows\Week01.genruntimeconfig.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.deps.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.runtimeconfig.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.runtimeconfig.dev.json
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\ref\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\bin\Debug\net5.0-windows\Week01.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.AssemblyInfoInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.AssemblyInfo.cs
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\ref\Week01.dll
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강\첫시간 따라하기\obj\Debug\net5.0-windows\Week01.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\bin\Debug\DrawImage.exe
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\bin\Debug\DrawImage.pdb
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.AssemblyReference.cache
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.Form1.resources
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.Properties.Resources.resources
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.GenerateResource.cache
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.csproj.CoreCompileInputs.cache
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.exe
+D:\.NET\보강\19장=이미지\DrawImage\DrawImage\obj\Debug\DrawImage.pdb

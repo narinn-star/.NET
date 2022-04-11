@@ -1,0 +1,9 @@
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\bin\Debug\BackgroundImage.exe
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\bin\Debug\BackgroundImage.pdb
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.csproj.AssemblyReference.cache
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.Form1.resources
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.Properties.Resources.resources
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.csproj.GenerateResource.cache
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.csproj.CoreCompileInputs.cache
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.exe
+D:\.NET\보강\19장=이미지\BackgroundImage\BackgroundImage\obj\Debug\BackgroundImage.pdb
