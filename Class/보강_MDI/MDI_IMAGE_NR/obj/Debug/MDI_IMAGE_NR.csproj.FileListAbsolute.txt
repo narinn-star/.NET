@@ -1,0 +1,11 @@
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\bin\Debug\MDI_IMAGE_NR.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\bin\Debug\MDI_IMAGE_NR.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\bin\Debug\MDI_IMAGE_NR.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.Form2.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\보강_MDI\MDI_IMAGE_NR\obj\Debug\MDI_IMAGE_NR.pdb

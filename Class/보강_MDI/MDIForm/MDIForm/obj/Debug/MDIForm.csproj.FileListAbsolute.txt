@@ -1,0 +1,10 @@
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.AssemblyReference.cache
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.Form1.resources
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.Form2.resources
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.cache
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.CoreCompileInputs.cache
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+D:\.NET\보강\25장=창 배치\MDIForm\MDIForm\obj\Debug\MDIForm.pdb
