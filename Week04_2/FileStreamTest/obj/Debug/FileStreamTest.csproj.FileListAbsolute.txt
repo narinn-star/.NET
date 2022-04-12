@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.exe
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\bin\Debug\FileStreamTest.pdb
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Form1.resources
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.Properties.Resources.resources
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.exe
+C:\Users\Student\Desktop\FileStreamTest\FileStreamTest\obj\Debug\FileStreamTest.pdb
