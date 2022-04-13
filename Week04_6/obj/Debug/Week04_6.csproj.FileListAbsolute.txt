@@ -1,0 +1,11 @@
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\bin\Debug\Week04_6.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\bin\Debug\Week04_6.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\bin\Debug\Week04_6.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.Form2.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\4주차\Week04_6\obj\Debug\Week04_6.pdb
