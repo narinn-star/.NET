@@ -1,0 +1,44 @@
+C:\Users\skkim\Desktop\4-DrawLines-Dialog - 4-ScrollBar-미리보기창\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\0330닷넷\0330_7 Scroolbar+미리보기\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\20172537_닷넷\0330닷넷\0330_7 Scroolbar+미리보기\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존 실습한 프로그램에 파일입출력 추가\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\20172537_닷넷\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\20172537_닷넷\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\20172537_닷넷\0406닷넷\0406_8 기존실습+파일입출력+시리얼라이즈\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\0413닷넷\0413_1 저번수업 파일입출력+불러오기더블클릭해결\obj\Debug\DrawLines.csproj.GenerateResource.Cache
