@@ -1,0 +1,20 @@
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\bin\Debug\DrawLines.exe.config
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\bin\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\bin\Debug\DrawLines.pdb
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.Form1.resources
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.Form2.resources
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.exe
+C:\Users\Student\Desktop\0406닷넷\0406_9 기존실습+파일입출력 교수님소스\obj\Debug\DrawLines.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\bin\Debug\DrawLines.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\bin\Debug\DrawLines.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\bin\Debug\DrawLines.pdb
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.Form2.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.exe
+C:\Users\skfls\OneDrive\바탕 화면\.NET\5주차\Week05_0\obj\Debug\DrawLines.pdb
