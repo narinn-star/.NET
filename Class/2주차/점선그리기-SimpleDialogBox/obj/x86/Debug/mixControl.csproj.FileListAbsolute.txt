@@ -34,3 +34,13 @@ C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixContro
 C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form2.resources
 C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Properties.Resources.resources
 C:\Users\Student\Desktop\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.GenerateResource.Cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\bin\Debug\mixControl.exe
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\bin\Debug\mixControl.pdb
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Form2.resources
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.exe
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\2주차\점선그리기-SimpleDialogBox\obj\x86\Debug\mixControl.pdb
