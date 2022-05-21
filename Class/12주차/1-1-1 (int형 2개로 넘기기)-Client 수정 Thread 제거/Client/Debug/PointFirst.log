@@ -1,0 +1,3 @@
+﻿  LINK : C:\Users\Student\Desktop\1-1-1 (int형 2개로 넘기기)-Client 수정 Thread 제거\Client\Debug\PointFirst.pdb 프로그램 데이터베이스가 없습니다. 전체 링크를 수행하고 있습니다.
+point.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  PointFirst.vcxproj -> C:\Users\Student\Desktop\1-1-1 (int형 2개로 넘기기)-Client 수정 Thread 제거\Client\.\Debug\PointFirst.exe
