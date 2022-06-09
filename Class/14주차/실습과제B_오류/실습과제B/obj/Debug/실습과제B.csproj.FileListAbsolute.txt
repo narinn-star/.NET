@@ -1,0 +1,8 @@
+C:\Users\Student\Desktop\실습과제B\실습과제B\bin\Debug\실습과제B.exe.config
+C:\Users\Student\Desktop\실습과제B\실습과제B\bin\Debug\실습과제B.exe
+C:\Users\Student\Desktop\실습과제B\실습과제B\bin\Debug\실습과제B.pdb
+C:\Users\Student\Desktop\실습과제B\실습과제B\obj\Debug\실습과제B.Form1.resources
+C:\Users\Student\Desktop\실습과제B\실습과제B\obj\Debug\실습과제B.Properties.Resources.resources
+C:\Users\Student\Desktop\실습과제B\실습과제B\obj\Debug\실습과제B.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\실습과제B\실습과제B\obj\Debug\실습과제B.exe
+C:\Users\Student\Desktop\실습과제B\실습과제B\obj\Debug\실습과제B.pdb

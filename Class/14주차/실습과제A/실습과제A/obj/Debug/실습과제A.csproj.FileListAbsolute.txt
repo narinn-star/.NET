@@ -1,0 +1,10 @@
+c:\users\student\documents\visual studio 2013\Projects\실습과제A\실습과제A\bin\Debug\실습과제A.exe.config
+C:\Users\Student\Desktop\실습과제A\실습과제A\bin\Debug\실습과제A.exe.config
+C:\Users\Student\Desktop\실습과제A\실습과제A\bin\Debug\실습과제A.exe
+C:\Users\Student\Desktop\실습과제A\실습과제A\bin\Debug\실습과제A.pdb
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.Form1.resources
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.Properties.Resources.resources
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.exe
+C:\Users\Student\Desktop\실습과제A\실습과제A\obj\Debug\실습과제A.pdb
