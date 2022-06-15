@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "점3개 찍기", "점3개 찍기.csproj", "{70B9BB85-7095-486F-AFA4-61C8DE20004E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B9BB85-7095-486F-AFA4-61C8DE20004E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B9BB85-7095-486F-AFA4-61C8DE20004E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B9BB85-7095-486F-AFA4-61C8DE20004E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B9BB85-7095-486F-AFA4-61C8DE20004E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6264650-9D0A-492C-A803-AE992C20BA35}
+	EndGlobalSection
+EndGlobal

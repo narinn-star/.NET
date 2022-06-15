@@ -1,0 +1,10 @@
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\bin\Debug\점3개 찍기.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\bin\Debug\점3개 찍기.exe
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\bin\Debug\점3개 찍기.pdb
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개 찍기.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개_찍기.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개_찍기.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개 찍기.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개 찍기.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개 찍기.exe
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\점3개 찍기 - b\obj\Debug\점3개 찍기.pdb
