@@ -1,0 +1,9 @@
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\bin\Debug\선 그리기 통신.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\bin\Debug\선 그리기 통신.exe
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\bin\Debug\선 그리기 통신.pdb
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선 그리기 통신.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선_그리기_통신.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선 그리기 통신.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선 그리기 통신.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선 그리기 통신.exe
+C:\Users\skfls\OneDrive\바탕 화면\2022 기말 대비\선 그리기 통신 - a\obj\Debug\선 그리기 통신.pdb

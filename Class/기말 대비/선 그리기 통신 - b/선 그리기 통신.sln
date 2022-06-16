@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "선 그리기 통신", "선 그리기 통신.csproj", "{5121D30D-3D3D-4E4E-8681-0E408F3CE85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5121D30D-3D3D-4E4E-8681-0E408F3CE85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5121D30D-3D3D-4E4E-8681-0E408F3CE85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5121D30D-3D3D-4E4E-8681-0E408F3CE85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5121D30D-3D3D-4E4E-8681-0E408F3CE85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C952AC7F-81CE-4DDD-B2B7-1F03F0428B93}
+	EndGlobalSection
+EndGlobal
