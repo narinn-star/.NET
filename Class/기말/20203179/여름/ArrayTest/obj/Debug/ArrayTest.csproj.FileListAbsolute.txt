@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\여름\ArrayTest\bin\Debug\ArrayTest.exe.config
+C:\Users\PC\Desktop\여름\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\PC\Desktop\여름\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\PC\Desktop\여름\ArrayTest\obj\Debug\ArrayTest.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\여름\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\PC\Desktop\여름\ArrayTest\obj\Debug\ArrayTest.pdb

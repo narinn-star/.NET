@@ -1,0 +1,10 @@
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\skfls\OneDrive\바탕 화면\CLONE\.NET\Class\14주차\20182644_이재구-C# 세점찍기\WindowsFormsApplication1-a\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
